@@ -7,5 +7,5 @@ a[href^="https"] {
 }
 
 ul+p {
-    font-sized: 24px;
+    font-size: 24px;
 }
